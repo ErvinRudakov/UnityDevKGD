@@ -6,6 +6,6 @@ namespace Game
     public class Truck : MonoBehaviour
     {
         [SerializeField]
-        private int score;
+        private CarSettings dodgeScore = 3;
     }
 }

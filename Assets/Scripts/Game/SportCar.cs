@@ -7,7 +7,6 @@ namespace Game
     public class SportCar : MonoBehaviour
     {
         [SerializeField]
-        private int score=0; 
-       
+        private CarSettings dodgeScore = 0;
     }
 }
