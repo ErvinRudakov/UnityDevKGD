@@ -7,14 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Preloader.unity
-    guid: 233924b8488d6d84d85edd8b254d966b
+    guid: 6737cd30d6b7b4df3ae84f198ea19d8c
   - enabled: 1
     path: Assets/Scenes/Gameplay.unity
-    guid: 3cf2bc780470f5e49a5795f7a742dc64
+    guid: 6f57af30051e3418da899daf95d78e40
   - enabled: 1
     path: Assets/Scenes/Menu.unity
-    guid: a47d756b0a161f24291c344f133013a5
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    guid: 69c788d982b2c4ea089dde0a2f91c9b4
   m_configObjects: {}
